@@ -1,6 +1,6 @@
 ### Salve! Me chamo Nataly :)
 Iniciante nessa área e aberta a aprender um pouquinho de tudo
-  -  📕 Estudante de BSI na Unicamp
+  -  📕 Estudante de BSI na Unicamp.
 
 ##
 
