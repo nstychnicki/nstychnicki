@@ -7,12 +7,13 @@ Iniciante nessa área e aberta a aprender um pouquinho de tudo
 <div>
   <a href="https://github.com/nstychnicki"/>
   <img width="43%" src= "https://github-readme-stats.vercel.app/api?username=nstychnicki&count_private=true&show_icons=true&theme=synthwave"/>
-  <img width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nstychnicki&theme=synthwave&layout=compact"/>
+  <img width="47%" src= ""/>
 </div>
 
 <div style="display: inline_block"><br>
   <p> Linguagens (cuidado são muitas) </p>
   <img align="center" alt="Naty-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+  <img align="center" alt="Naty-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
  
  ##
 <div>
