@@ -7,7 +7,7 @@ Iniciante nessa área e aberta a aprender um pouquinho de tudo
 <div>
   <a href="https://github.com/nstychnicki"/>
   <img width="43%" src= "https://github-readme-stats.vercel.app/api?username=nstychnicki&count_private=true&show_icons=true&theme=synthwave"/>
-  <img width="47%" src= ""/>
+  <img width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nstychnicki&theme=synthwave&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
