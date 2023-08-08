@@ -6,7 +6,7 @@ Iniciante nessa área e aberta a aprender um pouquinho de tudo
 
 <div>
   <a href="https://github.com/nstychnicki"/>
-  <img width="35%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nstychnicki&exclude_repo=Python_OOP&theme=synthwave&layout=compact&langs_count=10"/>
+  <img width="35%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nstychnicki&exclude_repo=Python_OOP&theme=synthwave&layout=compact&langs_count=15"/>
 </div>
 
 <div style="display: inline_block"><br>
