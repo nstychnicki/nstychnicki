@@ -1,8 +1,5 @@
-### Salve! Me chamo Nataly :)
-Iniciante nessa área e aberta a aprender um pouquinho de tudo
-  -  📕 Estudante de BSI na Unicamp. 
-
-##
+Information Systems at Unicamp
+Data Analysis
 
 <div>
   <a href="https://github.com/nstychnicki"/>
