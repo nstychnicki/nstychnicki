@@ -1,5 +1,4 @@
 Information Systems at Unicamp
-Data Analysis
 
 <div>
   <a href="https://github.com/nstychnicki"/>
