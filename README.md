@@ -2,12 +2,12 @@ Information Systems at Unicamp
 
 <div>
   <a href="https://github.com/nstychnicki"/>
-  <img width="35%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nstychnicki&exclude_repo=Python_OOP,Project_TT001&theme=synthwave&layout=compact&langs_count=15"/> 
+  <img width="35%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nstychnicki&theme=synthwave&layout=compact&langs_count=15"/> 
 </div>
 
 <div style="display: inline_block"><br>
   <p> Linguagens </p>
-  <img align="center" alt="Naty-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+  <img align="center" alt="Naty-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="Naty-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
   <img align="center" alt="Naty-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Naty-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
